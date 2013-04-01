@@ -3,7 +3,7 @@
 Hrsg. von: Windows Azure Community Deutschland<br> 
 Berlin 2012 - 2013
 
-Demo 2 liefert einen Überblick über das Media Services Dashboard
+Demo 3 zeigt die Durchführung eines einfahen Media Services Workfows im Windows Azure Management Portal
 
 Schöne Grüße<br>
 Oliver
