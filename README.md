@@ -4,7 +4,7 @@ WAMS-TK
 <b>Trainingskit für Windows Azure Media Services</b>
 
 Hrsg. von: Windows Azure Community Deutschland <br>
-Berlin 2012
+Berlin 2012 - 2013
 
 Hallo zusammen,<br>
 <br>
