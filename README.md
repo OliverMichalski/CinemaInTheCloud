@@ -1,4 +1,4 @@
-WAMS-TK
+Cinema In The Cloud - MAMS TK
 =======
 
 <b>Trainingskit für Microsoft Azure Media Services</b>
